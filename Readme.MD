@@ -1,4 +1,4 @@
-# FinalSim
+# Drone Sim
 
 This is a point simulator for a drone. The original code was adapted from [FlightGoggles](https://flightgoggles.mit.edu). The simulator was optimized to require low computational overhead.
 
